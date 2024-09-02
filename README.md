@@ -32,3 +32,12 @@ npm run build
 ```shell
 npm start
 ```
+
+![image](https://github.com/user-attachments/assets/7dd24bc1-2d5e-421f-9ef9-b5e1d6cf51da)
+
+
+![image](https://github.com/user-attachments/assets/3d83e8c5-9f33-4bc4-af5b-fa77563ef32e)
+
+![image](https://github.com/user-attachments/assets/21c242b1-eff7-4146-950d-8e500024e556)
+![image](https://github.com/user-attachments/assets/b985c7c7-0d0f-4524-b197-5bbf89c7081a)
+
